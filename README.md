@@ -1,3 +1,34 @@
+
+# npx create-react-app proj1  
+O comando npx create-react-app proj1 cria um novo projeto React chamado proj1 com uma estrutura de arquivos e dependências padrão configuradas automaticamente. ✔️
+
+# cria os componentes 
+
+# npm install react-router-dom
+O comando npm install react-router-dom instala a biblioteca react-router-dom, que é usada para gerenciar a navegação e as rotas em um aplicativo React. ✔️
+
+# Estrutura do Projeto
+# Vamos adicionar alguns arquivos e diretórios para organizar nossos componentes:
+
+proj1/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Home.js
+│   │   ├── About.js
+│   │   └── Contact.js
+│   ├── App.css
+│   ├── App.js
+│   ├── index.css
+│   ├── index.js
+│   └── reportWebVitals.js
+├── .gitignore
+├── package.json
+├── README.md
+└── yarn.lock / package-lock.json
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
